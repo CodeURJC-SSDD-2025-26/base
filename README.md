@@ -258,7 +258,7 @@ Diagrama de clases de la aplicación con diferenciación por colores o secciones
 
 ---
 
-## 🛠 **Práctica 3: API REST a la aplicación web, docker y despliegue**
+## 🛠 **Práctica 3: API REST, docker y despliegue**
 
 ### **Documentación de la API REST**
 
