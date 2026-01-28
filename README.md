@@ -200,7 +200,7 @@ Diagrama de clases de la aplicación con diferenciación por colores o secciones
 
 > [Descripción opcional del diagrama y relaciones principales]
 
-### **Participación de Miembros en la Práctica 1**
+### **Participación de Miembros en la Práctica 2**
 
 #### **Alumno 1 - [Nombre Completo]**
 
@@ -339,9 +339,9 @@ Diagrama actualizado incluyendo los @RestController y su relación con los @Serv
 | Usuario Registrado | user1 | user123 |
 | Usuario Registrado | user2 | user123 |
 
-### **Otra documentación adicional requerida en la práctica**
+### **OTRA DOCUMENTACIÓN ADICIONAL REQUERIDA EN LA PRÁCTICA**
 
-### **Participación de Miembros en la Práctica 2**
+### **Participación de Miembros en la Práctica 3**
 
 #### **Alumno 1 - [Nombre Completo]**
 
